@@ -1,0 +1,20 @@
+{
+  "name": "smaple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "crypto": "^1.0.1",
+    "express": "^4.19.1",
+    "node-rsa": "^1.1.1",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
